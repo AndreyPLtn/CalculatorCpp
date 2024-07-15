@@ -1,0 +1,9 @@
+# ninja log v5
+13	637	7423903881390788	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	cd85f2affeed1c60
+980	1210	7424749901874318	CMakeProject1.exe	478991666949deb8
+8	690	7423901943183962	CMakeFiles/CMakeProject1.dir/Calculator.cpp.obj	9ec92583c8aada03
+3	757	7424749897880218	CMakeFiles/CMakeProject1.dir/src/Calculator.cpp.obj	57ba7572826b784d
+14	980	7424749900109562	CMakeFiles/CMakeProject1.dir/src/InputHandler.cpp.obj	556ec29b4a535022
+17	650	7423903881532959	CMakeFiles/CMakeProject1.dir/Menu.cpp.obj	1ef0bc890634075a
+10	978	7424749900089565	CMakeFiles/CMakeProject1.dir/main.cpp.obj	ac52aeab09fdd195
+7	971	7424749899993557	CMakeFiles/CMakeProject1.dir/src/Menu.cpp.obj	1b9f5c2a35e8603f
